@@ -9,6 +9,7 @@ A place where you can propose, recruit, or at least get a feedback about that on
 - Head to issues, and submit a new one.
 - Please use the template provided.
 - You're not obliged to fill in all the sections in the template.
+- All ideas are welcome, as long as they conform to the provided template.
 
 ## Giving Feedback
 
